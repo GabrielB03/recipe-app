@@ -28,7 +28,7 @@ The Recipe App is a user-friendly web application designed to help users search 
 The application uses the Spoonacular API for fetching recipe data. Make sure to replace the API key in `js/script.js` with your own if you are planning to deploy or modify the project.
 
 ```javascript
-const apiKey = 'a506c0d2fd024d0395e6a6b9454eab13'; // Replace with your Spoonacular API key
+const apiKey = 'YOUR_SPOONACULAR_API_KEY'; // Replace with your Spoonacular API key
 ```
 
 # Project Test
