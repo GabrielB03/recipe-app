@@ -32,3 +32,7 @@ const apiKey = 'YOUR_SPOONACULAR_API_KEY'; // Replace with your Spoonacular API 
 ```
 
 # Project Test
+
+![image](https://github.com/user-attachments/assets/cb534ee7-ac82-4acf-b2b0-d92b92e1cccc)
+
+![image](https://github.com/user-attachments/assets/a2875281-03a1-4f6e-80d3-84a2060a1800)
